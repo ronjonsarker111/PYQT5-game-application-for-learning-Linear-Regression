@@ -1,5 +1,4 @@
 # Linear Regression Estimator
-
 This project is a PyQt5-based GUI application for learning linear regression through visualization and interactive controls. It allows users to generate and manipulate signals, add noise, and estimate linear regression parameters in an intuitive way.
 
 ## Features
